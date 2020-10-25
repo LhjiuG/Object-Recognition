@@ -4,6 +4,7 @@
 # My goal is to end up with a generator returning a
 # tuple of the image and annotations using tf.dataset module
 
+
 from abc import ABC
 
 import tensorflow as tf
