@@ -1,5 +1,5 @@
 # Object-Recognition
-My goal is to create an object detector for a video game.
+My goal is to create an object detector for a video game while learning as much as possible.
 Because the main goal of this project is to help me learn,
 I made sure to understand everything I took inspiration from
 and build the most things I could from scratch.
