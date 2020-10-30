@@ -1,0 +1,30 @@
+item {
+    name: "Bomb",
+    id: 1,
+    display_name: "Bomb"
+}
+item {
+    name: "Enemy 1",
+    id: 2,
+    display_name: "Enemy 1"
+}
+item {
+    name: "Enemy 2",
+    id: 3,
+    display_name: "Enemy 2"
+}
+item {
+    name: "Spawner",
+    id: 4,
+    display_name: "Spawner"
+}
+item {
+    name: "aa",
+    id: 5,
+    display_name: "aa"
+}
+item {
+    name: "player",
+    id: 6,
+    display_name: "player"
+}
