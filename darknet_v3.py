@@ -1,5 +1,6 @@
 from tensorflow.keras.layers import Conv2D, BatchNormalization, LeakyReLU, ZeroPadding2D, Concatenate
 from tensorflow.keras.regularizers import l2
+import tensorflow as tf
 
 from utils import compose
 from data_pipeline import *
